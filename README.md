@@ -2,7 +2,7 @@
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name:Pink Pixels
 
 
 ### Team Members
@@ -59,14 +59,21 @@ For Software:
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
+!![WhatsApp Image 2025-01-26 at 09 04 12_bcc94081](https://github.com/user-attachments/assets/85f2db0a-5669-4681-ba30-6412682079b3)
+(Home page)
 *Add caption explaining what this shows*
 
-![Screenshot2](Add screenshot 2 here with proper name)
+![![WhatsApp Image 2025-01-26 at 09 04 31_89b4d1dc](https://github.com/user-attachments/assets/78e24197-49f5-423f-a164-f7e2f66c66fa)
+](Items list)
 *Add caption explaining what this shows*
 
 ![Screenshot3](Add screenshot 3 here with proper name)
 *Add caption explaining what this shows*
+
+![![WhatsApp Image 2025-01-26 at 09 04 47_13064ac0](https://github.com/user-attachments/assets/3d8a4dcc-6554-4cf3-b466-7f320bc004b6)
+](Search Item)
+*Add caption explaining what this shows*
+
 
 # Diagrams
 ![Workflow](Add your workflow/architecture diagram here)
