@@ -117,7 +117,7 @@ For Hardware:
 
 ### Project Demo
 # Video
-https://drive.google.com/file/d/1oBF7pw9vlUQs7U6sB8wuqmYesFtk1cmz/view?usp=drive_link
+[https://drive.google.com/file/d/1oBF7pw9vlUQs7U6sB8wuqmYesFtk1cmz/view?usp=drive_link]
 *This video showcases the complete functionality of our "Lost & Found" platform. It demonstrates how users can easily scan QR codes placed around the college to either report a found item or search for their lost belongings. The video walks through the process of submitting item details via Google Forms, which are then displayed on the platform for others to view. Users can browse a list of lost items, check their details, and claim them with a simple click. The interface is user-friendly, and the flow from scanning the QR code to claiming an item is smooth and intuitive. We also demonstrate how the backend is powered by Google Sheets and the seamless integration of the platform with real-time data updates.*
 
 # Additional Demos
