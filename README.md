@@ -1,4 +1,4 @@
-# [Project Name] 🎯
+# [ReClaim] 🎯
 
 
 ## Basic Details
@@ -6,29 +6,43 @@
 
 
 ### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Member 1: [Neha N] - [TKM college of engineering]
+- Member 2: [Nida Kabeer] - [TKM college of engineering]
+- Member 3: [Aneena Fathima A R] - [TKM college of engineering]
 
 ### Hosted Project Link
 [mention your project hosted project link here]
 
 ### Project Description
-[2-3 lines about what your project does]
+[ ReClaim is an innovative web application designed to help individuals locate their lost items on a college campus. By integrating QR codes, Google Forms, and a dynamic website, the platform provides an efficient way to report and claim lost items, promoting accountability and ease of use.]
 
 ### The Problem statement
-[What ridiculous problem are you solving?]
+[Losing personal items on a college campus is a common issue, and existing solutions like notice boards, verbal communication, or even asking through social media are inefficient and unreliable. Students and staff struggle to report, track, and claim lost items due to the lack of a centralized and accessible system. Additionally, there is no structured mechanism to validate claims, leading to confusion and delays in returning items. This project aims to address these challenges by developing a tech-enabled platform to streamline the lost-and-found process using web technologies and QR codes.]
 
 ### The Solution
-[How are you solving it? Keep it fun!]
+[To address the inefficiencies in locating and claiming lost items on campus, this project proposes a centralized lost-and-found platform. QR codes will be strategically placed around the campus, enabling individuals who find or lose items to access the website easily. Those who find an item can scan the QR code to submit details about the item through a simple Google Form, while those searching for lost items can browse the posted entries on the platform. The platform will display item details, such as images, location found, and contact information, ensuring clarity and easy communication. This tech-enabled solution enhances accessibility, reliability, and speed in the lost-and-found process, eliminating dependency on notice boards or social media.]
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- [Languages Used:
+
+HTML: For structuring the web pages.
+CSS: For styling the web pages.
+JavaScript: For adding interactivity to the website.
+jQuery: For simplifying DOM manipulation and AJAX requests.]
+
+
+- [Libraries Used:
+
+jQuery: To handle AJAX requests and DOM events.]
+
+- [Tools Used:
+Google Forms: For collecting details about lost items.
+Google Sheets API: To retrieve and display submitted item details on the website.
+Git & GitHub: For version control and collaboration.
+GitHub Pages: For deploying and hosting the website via GitHub.
+QR Code Generator: For creating unique QR codes linking to the platform.]
 
 For Hardware:
 - [List main components]
