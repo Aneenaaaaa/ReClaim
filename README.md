@@ -101,8 +101,8 @@ For Hardware:
 *Add caption explaining the schematic*
 
 # Build Photos
-![![Uploading WhatsApp Image 2025-01-26 at 09.46.18_bd4f8862.jpg…]()
-]
+![![WhatsApp Image 2025-01-26 at 09 46 18_10b4c4d9](https://github.com/user-attachments/assets/c7e074e1-bc72-4459-aded-c696c04ecfd1)
+](Add photo of your team here)
 
 
 
