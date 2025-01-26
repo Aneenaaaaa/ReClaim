@@ -1,4 +1,4 @@
-# [ReClaim] 🎯
+# ReClaim 🎯
 
 
 ## Basic Details
@@ -82,7 +82,7 @@ Home page:
 
 [WhatsApp Image 2025-01-26 at 09 06 07_7386239f](https://github.com/user-attachments/assets/d172ab23-7484-41c2-be1b-cdf5fadeca10)
 ]Claim item:
-*Add caption explaining what this shows*
+*When a user claims an item, the platform confirms the action with an alert box, notifying the user that the item has been successfully claimed.*
 
 
 
@@ -101,7 +101,8 @@ For Hardware:
 *Add caption explaining the schematic*
 
 # Build Photos
-![Team](Add photo of your team here)
+[Uploading WhatsApp Image 2025-01-26 at 09.46.18_3104b2b9.jpg…]()
+
 
 
 ![Components](Add photo of your components here)
@@ -115,16 +116,16 @@ For Hardware:
 
 ### Project Demo
 # Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
+https://drive.google.com/file/d/1oBF7pw9vlUQs7U6sB8wuqmYesFtk1cmz/view?usp=drive_link
+*This video showcases the complete functionality of our "Lost & Found" platform. It demonstrates how users can easily scan QR codes placed around the college to either report a found item or search for their lost belongings. The video walks through the process of submitting item details via Google Forms, which are then displayed on the platform for others to view. Users can browse a list of lost items, check their details, and claim them with a simple click. The interface is user-friendly, and the flow from scanning the QR code to claiming an item is smooth and intuitive. We also demonstrate how the backend is powered by Google Sheets and the seamless integration of the platform with real-time data updates.*
 
 # Additional Demos
 [Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- Neha N: created idex.html page,added navigation,enhanced styling .
+- Nida Kabeer: created home.html page and added search filter.
+- Aneena Fathima: Item description page and Documentation.
 
 ---
 Made with ❤️ at TinkerHub
