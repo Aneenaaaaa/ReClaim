@@ -59,20 +59,32 @@ For Software:
 For Software:
 
 # Screenshots (Add at least 3)
-!![WhatsApp Image 2025-01-26 at 09 04 12_bcc94081](https://github.com/user-attachments/assets/85f2db0a-5669-4681-ba30-6412682079b3)
-(Home page)
+[WhatsApp Image 2025-01-26 at 09 04 12_bcc94081](https://github.com/user-attachments/assets/85f2db0a-5669-4681-ba30-6412682079b3)
+Home page:
+*When the user scans the QR code, they are directed to the Home Page where two options, Found and Lost, are displayed. Users can select Found to post details about a found item or Lost to view and claim a lost item.*
+
+[WhatsApp Image 2025-01-26 at 09 04 31_89b4d1dc](https://github.com/user-attachments/assets/78e24197-49f5-423f-a164-f7e2f66c66fa)
+]Items list:
+*The platform displays all the lost items, providing users with a clear overview of the items that have been reported missing. Each item includes its name and last known location, helping individuals easily identify and locate their lost belongings.*
+
+[WhatsApp Image 2025-01-26 at 09 13 15_e2ea28dc](https://github.com/user-attachments/assets/abba35a2-b16f-4871-ac4f-0a90fa0f32f5)
+]google form:
+*The person who found an item can fill out a Google Form, providing details such as the item’s features and uploading photos for identification. This information will be submitted and stored for others to view and claim the item.
+*
+
+[![WhatsApp Image 2025-01-26 at 09 04 47_13064ac0](https://github.com/user-attachments/assets/3d8a4dcc-6554-4cf3-b466-7f320bc004b6)
+]Search Item:
+*Items are filtered based on the search query, allowing users to find lost items by entering relevant keywords or letters. This enables efficient item searching on the platform.*
+
+[WhatsApp Image 2025-01-26 at 09 05 50_95925d4d](https://github.com/user-attachments/assets/35bf0bde-9c77-4e7c-8793-9cd7037561bc)
+]Item description:
+*Each item on the platform provides a detailed description, including essential information such as the item's features, location where it was found, the date it was found, and contact details for further inquiries. This ensures that users have comprehensive information to identify and claim the lost item.*
+
+[WhatsApp Image 2025-01-26 at 09 06 07_7386239f](https://github.com/user-attachments/assets/d172ab23-7484-41c2-be1b-cdf5fadeca10)
+]Claim item:
 *Add caption explaining what this shows*
 
-![![WhatsApp Image 2025-01-26 at 09 04 31_89b4d1dc](https://github.com/user-attachments/assets/78e24197-49f5-423f-a164-f7e2f66c66fa)
-](Items list)
-*Add caption explaining what this shows*
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
-
-![![WhatsApp Image 2025-01-26 at 09 04 47_13064ac0](https://github.com/user-attachments/assets/3d8a4dcc-6554-4cf3-b466-7f320bc004b6)
-](Search Item)
-*Add caption explaining what this shows*
 
 
 # Diagrams
