@@ -124,7 +124,7 @@ https://drive.google.com/file/d/1oBF7pw9vlUQs7U6sB8wuqmYesFtk1cmz/view?usp=drive
 
 ## Team Contributions
 - Neha N: created idex.html page,added navigation,enhanced styling .
-- Nida Kabeer: created home.html page and added search filter.
+- Nida Kabeer: created home.html page,formed the sheet,added search filter.
 - Aneena Fathima: Item description page and Documentation.
 
 ---
